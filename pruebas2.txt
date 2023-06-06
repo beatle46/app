@@ -1,4 +1,10 @@
 Allo hola
 Hello hola
 
+<<<<<<< HEAD
 Allo 44
+=======
+Allo 44
+
+Allo hotfix
+>>>>>>> hotfix
